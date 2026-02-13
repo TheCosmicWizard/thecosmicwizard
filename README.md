@@ -55,7 +55,7 @@ Highlights from relevant experience (e.g., internships, team projects, competiti
 
 ##  Get in Touch
 
--  **Email**: [kadamatharva1234@gmail.com](mailto:kadamatharva1234@gmail.com)
+-  **Email**: [kadamatharva1234@gmail.com](mailto:atharv.2285@gmail.com)
 -  **Date of Birth**: August 22, 2005
 
 ---
