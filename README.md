@@ -9,10 +9,6 @@
 **Pursuing B.Tech at Vishwakarma Institute of Information Technology (VIIT), Pune.**
 I'm a curious and driven **tech enthusiast** dedicated to solving real-world problems through innovative solutions. I enjoy exploring emerging technologies, with a growing interest in **UI/UX design** and **poster creation**. I love building projects that create **social impact** and I'm eager to learn, collaborate, and grow across various tech domains.
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecosmicwizard" alt="thecosmicwizard" /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atharvkadam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -79,14 +75,17 @@ I'm a curious and driven **tech enthusiast** dedicated to solving real-world pro
 Explore the projects I've worked on that reflect my passion and dedication.
 
 **[Library Management System](#)** — *Jul 2025 – Sep 2025*
+
 Full-stack library management app with authentication, deployed on Render.
 `Node.js` `Express.js` `EJS` `SQLite` `bcrypt`
 
 **[Blood Bank Management System](#)** — *May 2025 – Jul 2025*
+
 Real-time blood availability and donor management platform.
 `Node.js` `Express.js` `MongoDB` `Bootstrap` `Chart.js`
 
 **[OCR Model – Aadhaar & PAN](#)** — *Sep 2025 – Dec 2025*
+
 OCR pipeline to extract structured data from Aadhaar/PAN card images.
 `Python` `Tesseract OCR` `OpenCV` `Flask`
 
